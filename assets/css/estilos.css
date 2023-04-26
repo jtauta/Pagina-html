@@ -1,0 +1,33 @@
+.principal {
+    padding: 40px;
+    margin: 10px;
+    border: 1px solid black;
+    background: #ebe7e7;;
+}
+
+.principal2 {
+    padding: 40px;
+    margin: 10px;
+    border: 1px solid black;
+    background: #ced4ee;;
+}
+
+
+.titulos {
+    font-size: 40px;
+}
+
+.subtitulos {
+    font-size: 25px;
+}
+
+.grupos {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid blue;
+    background: #ebe7e7;;
+}
+
+.linea {
+    color: red;
+}
