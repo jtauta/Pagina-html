@@ -1,2 +1,5 @@
 # Pagina-html
-Implelemtacion pagina html Ejemplo
+Implementacion pagina html Ejemplo
+
+Se ha trabajado de la siguiente manera:
+- 

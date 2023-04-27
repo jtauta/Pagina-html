@@ -1,0 +1,57 @@
+.principal {
+    background: rgb(190, 190, 196);
+}
+
+.menu {
+    background-color: rgb(219, 214, 214);    
+    position: fixed;
+    top:0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+}
+
+.menu .menu-lista {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.submenu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu .item {
+    float: left;
+    position: relative;
+}
+
+
+.menu .menu-lista .item a {
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.menu .item .submenu {
+    display: none;
+    position: absolute;
+    top:100%;
+    left: 0;
+    padding: 0;
+}
+
+.menu .item:hover > .submenu {
+    background-color: rgb(219, 214, 214);
+    display: block;
+}
+
+.menu .item:hover ,
+.menu .submenu-item:hover{
+    display: block;
+    color: white;
+    background-color: rgb(120, 135, 204);
+}
+
