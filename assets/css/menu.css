@@ -51,7 +51,7 @@
 .menu .item:hover ,
 .menu .submenu-item:hover{
     display: block;
-    color: white;
+    color: white;   
     background-color: rgb(120, 135, 204);
 }
 
